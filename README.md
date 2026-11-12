@@ -19,3 +19,33 @@ A localhost demo built with PHP, PostgreSQL, Apache and Ubuntu (WSL).
 
 ## Note
 Demo only. Uses test data, not real court records.
+
+## Screenshots
+
+**Login**
+
+![Login](docs/screenshots/login.png)
+
+**OTP verification**
+
+![OTP](docs/screenshots/otp.png)
+
+**Dashboard**
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+**Cases by status and upcoming hearings**
+
+![Dashboard charts](docs/screenshots/dashboard-charts.png)
+
+**Case list**
+
+![Case list](docs/screenshots/cases.png)
+
+**Add new case**
+
+![Add case](docs/screenshots/add-case.png)
+
+**Hearings**
+
+![Hearings](docs/screenshots/hearings.png)
